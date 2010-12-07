@@ -1,7 +1,7 @@
 %define name	plasma-applet-togglepanel
 %define version	0.0
 %define svn	1049487
-%define release	%mkrel 0.%svn.1
+%define release	%mkrel 0.%svn.2
 %define Summary	 Plasma applet providing a experimental toggle panel 
 
 Summary:	%Summary
