@@ -40,3 +40,13 @@ Experimental plasma-applet providing a toggle panel function
 
 %clean
 %__rm -rf %{buildroot}
+
+%changelog
+* Tue Dec 07 2010 Oden Eriksson <oeriksson@mandriva.com> 0.0-0.1049487.2mdv2011.0
++ Revision: 614584
+- the mass rebuild of 2010.1 packages
+
+* Sun Nov 15 2009 John Balcaen <mikala@mandriva.org> 0.0-0.1049487.1mdv2010.1
++ Revision: 466307
+- import plasma-applet-togglepanel
+
