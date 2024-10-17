@@ -14,7 +14,7 @@ Release:	%release
 Source0:	%{name}.tar.lzma
 License:	GPLv3
 Group:		Graphical desktop/KDE
-URL:		http://websvn.kde.org/trunk/playground/base/plasma/applets/togglepanel/
+URL:		https://websvn.kde.org/trunk/playground/base/plasma/applets/togglepanel/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	kdebase4-devel
 Provides:	plasma-applet
